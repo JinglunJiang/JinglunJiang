@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jinglun (Noella) Jiang</h1>
-<h3 align="center">A passionate full-stack software developer 👩‍💻 and a Master student 👩‍🏫 in Computer Science @UChicago</h3>
+<h3 align="left">A passionate full-stack software developer 👩‍💻</h3> 
+<h3 align="left">Master student 👩‍🏫 in Computer Science @UChicago</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
+
 
 ### 🎯 Current Focus
 - 🔭 I’m currently seeking for **24 Summer SWE Internship**
