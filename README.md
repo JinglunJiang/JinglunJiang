@@ -21,6 +21,7 @@
 
 - ❓ Ask me about **Business Analysis, Data Visualization**
 - 📫 How to reach me **jinglunjiang@gmail.com**
+- 📄 Know about my experiences **https://noellajiang.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
