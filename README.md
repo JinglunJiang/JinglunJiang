@@ -9,17 +9,17 @@
 
 ### 💻 Tech Stack
 - 🚀 Languages: **Java, Python, JavaScript, C, Bash, SQL**
-- 🛠️ Frameworks: **React, Express.js**
+- 🛠️ Frameworks: **React, Node.js, Express.js**
 - 📦 Databases: **MySQL, MongoDB**
 
 ### 🌱 Current Learning Journey
-- 📚 I’m currently learning **Unix System, Python Programming**
-- 👯 I’m looking to collaborate on **solving leetcode questions**
-- 🤝 I’m interested in learning **Web Development, ML**
+- 📚 I’m currently learning **Computer Systems, OOP, Algo**
+- 👯 I’m looking to work together on **solving leetcode questions**
+- 🤝 I’m interested in learning **Web Development, iOS**
 
 ### 💬 Let's Connect
 
-- ❓ Ask me about **Business Analysis, Data Visualization**
+- ❓ Ask me about **Python tricks, Unix Systems**
 - 📫 How to reach me **jinglunjiang@gmail.com**
 - 📄 Know about my experiences **https://noellajiang.netlify.app/**
 
