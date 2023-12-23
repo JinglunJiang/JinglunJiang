@@ -13,7 +13,7 @@
 - 📦 Databases: **MySQL, MongoDB**
 
 ### 🌱 Current Learning Journey
-- 📚 I’m currently learning **Computer Systems, OOP, Algo**
+- 📚 I’m currently learning **Computer Systems, OOP, Algorithms**
 - 👯 I’m looking to work together on **solving leetcode questions**
 - 🤝 I’m interested in learning **Web Development, iOS**
 
