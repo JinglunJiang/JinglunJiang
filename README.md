@@ -8,7 +8,7 @@
 - 🔭 I’m currently seeking for **24 Summer SWE Internship**
 
 ### 💻 Tech Stack
-- 🚀 Languages: **Java, Python, JavaScript, C, Bash, SQL**
+- 🚀 Languages: **Java, Python, JavaScript, C, Bash, SQL, PHP**
 - 🛠️ Frameworks: **React, Node.js, Express.js**
 - 📦 Databases: **MySQL, MongoDB**
 
