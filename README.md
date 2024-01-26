@@ -19,7 +19,7 @@
 
 ### 💬 Let's Connect
 
-- ❓ Ask me about **Python, Unix Systems**
+- ❓ Ask me about **OOP, Algorithms, Operating Systems**
 - 📫 How to reach me **jinglunjiang@gmail.com**
 - 📄 Know about my experiences **https://noellajiang.netlify.app/**
 
