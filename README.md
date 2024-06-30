@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jinglun (Noella) Jiang</h1>
-<h3 align="left">Part-time full-stack developer 👩‍💻</h3> 
+<h3 align="left">Software Engineering Intern @Cboe 👩‍💻</h3> 
 <h3 align="left">Master student in Computer Science @UChicago 👩‍🏫</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
 
 
 ### 🎯 Current Focus
-- 🔭 I’m currently seeking for **24 Summer SWE Internship**
+- 🔭 I’m currently seeking for **Entry-level software engineering opportunities**
 
 ### 💻 Tech Stack
-- 🚀 Languages: **Java, Python, JavaScript, C, Bash, SQL, PHP**
-- 🛠️ Frameworks: **React, Node.js, Express.js**
-- 📦 Databases: **MySQL, MongoDB**
+- 🚀 Languages: **Python, Java, JavaScript, C, Node.js, PHP, TypeScript, HTML/CSS, SQL, Bash**
+- 🛠️ Development: **React, Flask, Django, Express.js, Postman, Cypress, pytest, Jest, Git, Jira, Apache, Cloudflare, Docker**
+- 📦 Cloud/Databases: **AWS (EC2, S3, SNS, SQS, Lambda, DynamoDB, Glacier, CloudWatch), MongoDB, MySQL, Neo4j**
 
 ### 🌱 Current Learning Journey
-- 📚 I’m currently learning **Computer Systems, OOP, Algorithms**
-- 👯 I’m looking to work together on **solving leetcode questions**
-- 🤝 I’m interested in learning **Web Development, iOS**
+- 📚 I’m currently learning **Cloud Computing, System Design, Distributed Systems**
+- 👯 I’m looking to work together on **Full Stack projects**
+- 🤝 I’m interested in learning **iOS Development**
 
 ### 💬 Let's Connect
 
-- ❓ Ask me about **OOP, Algorithms, Operating Systems**
 - 📫 How to reach me **jinglunjiang@gmail.com**
 - 📄 Know about my experiences **https://noellajiang.netlify.app/**
 
